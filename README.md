@@ -4,8 +4,8 @@ https://adventofcode.com/
 Hello! This repository created for tasks of annual event "Advent Of Code". 
 
 Every task has:
-- anotation in js-file;
+- annotation in txt-file;
 - resolve in js-file;
 - input data in txt-file;
 
-Advent Of Code traditionally contains 25 tasks of increasing complexity. I was able to solve 17 :)
+Advent Of Code traditionally contains 25 tasks of increasing complexity. I was able to solve 16 :)
